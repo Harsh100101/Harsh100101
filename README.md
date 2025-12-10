@@ -1,110 +1,56 @@
-<h1 align="center">👋 Hi, I'm Harsh Sorathiya</h1>
+<h1 align="center">👋 Hey, I'm Harsh Sorathiya</h1>
 
 <p align="center">
-  🚀 Full Stack Developer (MERN) | 🎓 CSE-AI Student at Parul University | 🔍 AI & Web Development Enthusiast  
+  Full Stack Developer (MERN) • AI Enthusiast 
 </p>
 
 ---
 
-## 🌟 About Me  
-I am a proactive and product-oriented Full Stack Developer specializing in **MERN** and **AI-powered applications**.  
-Currently in my **3rd year of B.Tech CSE (AI)**, I love building real-world projects that combine  
-**AI + Web Development + End-to-end System Design**.
-
-I strongly believe in writing clean, reliable code and continuously improving my development and problem-solving skills.  
-
----
-
-## 🔥 Tech Stack  
-### **💻 Languages**
-- C, Python, JavaScript  
-- HTML, CSS  
-
-### **🧩 Frameworks & Libraries**
-- React.js, Node.js, Express.js  
-- Bootstrap, PDF.js (pdfjs-dist), AssemblyAI  
-
-### **🗄️ Databases**
-- MongoDB, SQL  
-
-### **🛠️ Tools**
-- Git & GitHub  
-- VS Code, Eclipse  
-- Apache JMeter  
-- MATLAB  
+## ⚡ About Me  
+- 🚀 MERN + AI Developer  
+- 🧠 Love building smart, fast, meaningful projects  
+- 🌱 Always learning & improving  
+- 🔍 Interested in AI tools, web apps & scalable systems  
 
 ---
 
-## 🚀 Major Projects  
+## 🛠 Tech Stack  
+**Frontend:** React.js<img width="222" height="119" alt="image" src="https://github.com/user-attachments/assets/c77c4dad-a4cb-4c4f-a92d-2d80e744e4b3" />
+, HTML<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/319a3d66-4170-4671-befa-a1f57cdde661" />
+, CSS<img width="189" height="267" alt="image" src="https://github.com/user-attachments/assets/bbe3de59-d33c-4de1-8337-fe1afecb5d9f" />
+, Bootstrap<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/8d5ed6db-22e3-4f86-90ab-0919d5f4b37e" />
+  
+**Backend:** Node.js<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/818792b8-ca4d-4e07-88a4-76b31d76dbea" />
+, Express.js<img width="259" height="194" alt="image" src="https://github.com/user-attachments/assets/a0ae2cc4-b3ff-4650-a79f-c4bee8ba9bf1" />
+  
+**Database:** MongoDB<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/6e4fb30d-b1d8-4bf4-8a06-9a492d6c513c" />
+, SQL  ![Uploading image.png…]()
 
-### 🔹 **PDF & Social Media Video Analyzer (Oct–Nov 2025)**  
-AI-powered web app that analyzes:  
-✔ Social media text  
-✔ Video content  
-✔ PDF documents  
-Features include:  
-- NLP-based tone, keyword, hashtag & CTA detection  
-- Video transcription using **AssemblyAI**  
-- PDF text extraction using **pdfjs-dist**  
-- Smart improvement suggestions  
-
-🔗 Repo: *(Add link if public)*
-
----
-
-### 🔹 **AI-Based Automated Resume Screening System (Hackathon 2024)**  
-Developed 100% of the Python codebase as part of a 4-member team.  
-- Automated screening of resumes based on job criteria  
-- NLP-powered filtering and score generation  
+**Languages:** Python, JavaScript, C  
+**Tools:** Git, VS Code, JMeter, MATLAB  
 
 ---
 
-### 🔹 **The Next Read – Intelligent Book Recommendation System**  
-Hybrid engine using:  
-- Collaborative Filtering (pivot tables + similarity matrices)  
-- Content-Based Filtering fallback (genre, author)  
-Backend testing & optimization:  
-- Apache JMeter testing up to **200 concurrent users**  
-- Database query optimization and indexing  
+## 🔥 Featured Projects  
+- **📊 PDF & Social Media Analyzer** — AI-powered text, video & PDF insights  
+- **🤖 Resume Screening System** — Automated resume filtering using Python  
+- **📚 The Next Read** — Hybrid book recommendation engine  
 
 ---
 
-## 🏆 Leadership Experience  
-- **Hackathon Team Leader** (MyOnSite Healthcare, National AI/ML Hackathon)  
-  Led a 4-member team competing against 75+ universities.  
-- **Final Year Project Leader**  
-  Managed task assignment, architecture, backend optimization & documentation.
-
----
-
-## 📜 Certifications  
-- Diploma in Cloud Computing & Cyber Security (Jetking)  
-- NPTEL: IoT, Computer Networks, Theory of Computation  
-- Udemy: Complete 2024 Web Development Bootcamp  
-
----
-
-## 📊 GitHub Stats  
-
+## 📈 GitHub Snapshot  
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Harsh100101&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh100101&layout=compact&theme=tokyonight" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Harsh100101&show_icons=true&theme=radical" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh100101&layout=compact&theme=radical" />
 </p>
 
 ---
 
-## 🤝 Connect With Me  
-📧 **Email:** harshsorathiya01@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/harsh-sorathiya/  
-🐙 **GitHub:** https://github.com/Harsh100101  
+## 🔗 Connect  
+📧 harshsorathiya01@gmail.com  
+🔗 linkedin.com/in/harsh-sorathiya  
+🐙 github.com/Harsh100101  
 
 ---
 
-## ✨ Fun Facts  
-- I love building **AI + Web hybrid products**  
-- Always learning new frameworks & optimizing systems  
-- Believe in shipping fast & iterating with real user feedback  
-
----
-
-⭐ **Thanks for visiting my profile — feel free to explore my repos!**
+<p align="center"><b>⚡ Building cool things. Learning every day.</b></p>
