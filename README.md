@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hey, I'm Harsh Sorathiya</h1>
 
-<p align="center">
-  Full Stack Developer (MERN) • AI Enthusiast • CSE(AI) @ Parul University  
-</p>
+<h3 align="center">
+  Full Stack Developer (MERN) • AI Enthusiast • CSE(AI) 
+</h3>
 
 ---
 
