@@ -7,64 +7,30 @@
 ---
 
 ## About Me
-- Full Stack developer with strong MERN fundamentals  
-- Experience building real-world, production-style projects  
-- Comfortable with frontend, backend, databases, and AI-based systems  
-- Interested in scalable web applications and intelligent systems  
+- MERN and AI developer  
+- Focused on building smart, fast, meaningful projects  
+- Constantly learning and improving  
+- Interested in AI tools, web applications, and scalable systems  
 
 ---
 
-## Skills (Based on Projects)
-
-### Frontend Development
-
-::contentReference[oaicite:0]{index=0}
-
-- React.js (AccountHub, Collaborative Task Manager)
-- HTML5, CSS3 (Multiple UI-focused projects)
-- Bootstrap (Responsive layouts, dashboards)
-
-### Backend Development
-
-::contentReference[oaicite:1]{index=1}
-
-- Node.js & Express.js
-- REST API development
-- Authentication & middleware logic
-- Backend structure & scalability
-
-### Databases
-
-::contentReference[oaicite:2]{index=2}
-
-- MongoDB (User accounts, tasks, analytics data)
-- SQL (Relational data handling)
-
-### Programming & AI
-
-::contentReference[oaicite:3]{index=3}
-
-- Python (AI-based resume screening)
-- JavaScript (Core logic & frontend interaction)
-- Basic NLP & recommendation systems
-
-### Tools & Testing
-
-::contentReference[oaicite:4]{index=4}
-
-- Git & GitHub (version control)
-- VS Code (daily development)
-- Apache JMeter (performance & load testing)
+## Tech Stack
+**Frontend:** React.js, HTML, CSS, Bootstrap  
+**Backend:** Node.js, Express.js  
+**Database:** MongoDB, SQL  
+**Languages:** Python, JavaScript, C  
+**Tools:** Git, VS Code, JMeter, MATLAB  
 
 ---
 
 ## Featured Repositories
 - **Collaborative Task Manager** — Real-time task management (TypeScript)  
-- **AccountHub (React)** — User authentication & account management  
-- **Amrutam Doctor Portal** — Doctor onboarding & portal UI  
+- **AccountHub (React)** — User authentication and account management  
+- **Amrutam Doctor Portal** — Doctor onboarding and portal UI  
 - **AI-Based Resume Screening** — Automated resume filtering using Python  
 - **Social Media Analyzer** — AI-based content analysis  
-- **Next Read / Book Recommendation** — Hybrid recommendation engine  
+- **Next Read / Book Recommendation** — Intelligent recommendation system  
+- **Simon, Dice Game, Drummer** — Interactive JavaScript mini projects  
 
 ---
 
