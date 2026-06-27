@@ -143,7 +143,7 @@ Healthcare management platform built with the MERN stack.
 https://linkedin.com/in/harsh-sorathiya
 
 🌐 **Portfolio:**
-https://harsh100101.github.io/
+https://portfolio-harsh-dev.vercel.app/
 
 💻 **GitHub:**
 https://github.com/Harsh100101
