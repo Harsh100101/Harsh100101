@@ -1,56 +1,155 @@
-<h1 align="center">Hey, I'm Harsh Sorathiya</h1>
+# <h1 align="center">Hi 👋, I'm Harsh Sorathiya</h1>
+
+<h3 align="center">
+Full Stack Developer (MERN) • React Native Developer • AI Enthusiast
+</h3>
 
 <p align="center">
-  Full Stack Developer (MERN) • AI Enthusiast • CSE(AI)
+Building scalable web & mobile applications with modern technologies.
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Harsh100101&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## About Me
-- MERN and AI developer  
-- Focused on building smart, fast, meaningful projects  
-- Constantly learning and improving  
-- Interested in AI tools, web applications, and scalable systems  
+## 🚀 About Me
+
+* 💻 Full Stack Developer specializing in the **MERN Stack**
+* 📱 Learning and building with **React Native**
+* 🤖 Interested in **Artificial Intelligence & Machine Learning**
+* 🌱 Currently exploring scalable backend systems and mobile development
+* 🎯 Passionate about solving real-world problems through software
+* ⚡ Love clean UI, efficient code, and continuous learning
 
 ---
 
-## Tech Stack
-**Frontend:** React.js, HTML, CSS, Bootstrap  
-**Backend:** Node.js, Express.js  
-**Database:** MongoDB, SQL  
-**Languages:** Python, JavaScript, C  
-**Tools:** Git, VS Code, JMeter, MATLAB  
+# 🛠 Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,js" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Mobile
+
+<p>
+<img src="https://skillicons.dev/icons?i=react" />
+React Native
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript,c" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
 ---
 
-## Featured Repositories
-- **Collaborative Task Manager** — Real-time task management (TypeScript)  
-- **AccountHub (React)** — User authentication and account management  
-- **Amrutam Doctor Portal** — Doctor onboarding and portal UI  
-- **AI-Based Resume Screening** — Automated resume filtering using Python  
-- **Social Media Analyzer** — AI-based content analysis  
-- **Next Read / Book Recommendation** — Intelligent recommendation system  
-- **Simon, Dice Game, Drummer** — Interactive JavaScript mini projects  
+# ⭐ Featured Projects
+
+### 📚 Next Read
+
+AI-powered Book Recommendation System using React, Flask and PostgreSQL.
+
+**Tech:** React • Flask • PostgreSQL • Machine Learning
 
 ---
 
-## GitHub Snapshot
+### 🤖 AI Resume Screening
+
+Automated Resume Screening System using NLP and Machine Learning.
+
+**Tech:** Python • Scikit-learn • NLP
+
+---
+
+### 🩺 Amrutam Doctor Portal
+
+Responsive doctor onboarding and management portal.
+
+**Tech:** React • REST API
+
+---
+
+### 👤 AccountHub
+
+Authentication and Account Management application.
+
+**Tech:** React • Node.js • MongoDB
+
+---
+
+### 💊 Medicine Search
+
+React Native application that searches medicines using API integration.
+
+**Tech:** React Native • Axios • REST API
+
+---
+
+### 🏥 Wellness Hub *(Coming Soon)*
+
+Healthcare management platform built with the MERN stack.
+
+---
+
+# 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harsh100101&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=Harsh100101&show_icons=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh100101&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harsh100101&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Harsh100101&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh100101&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-## Connect
-Email: harshsorathiya01@gmail.com  
-LinkedIn: https://linkedin.com/in/harsh-sorathiya  
-GitHub: https://github.com/Harsh100101  
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh100101&theme=tokyo-night"/>
+</p>
 
 ---
 
-<p align="center"><b>Building useful things. Learning every day.</b></p>
+# 🤝 Connect With Me
+
+📧 **Email:** **[harshsorathiya01@gmail.com](mailto:harshsorathiya01@gmail.com)**
+
+💼 **LinkedIn:**
+https://linkedin.com/in/harsh-sorathiya
+
+🌐 **Portfolio:**
+https://harsh100101.github.io/
+
+💻 **GitHub:**
+https://github.com/Harsh100101
+
+---
+
+<p align="center">
+<b>"Code. Learn. Build. Repeat."</b>
+</p>
